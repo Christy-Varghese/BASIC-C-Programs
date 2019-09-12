@@ -1,3 +1,5 @@
+//To calculate the time complexity of different types of sorting
+
 #include<stdio.h>
 #include<stdlib.h>
 
