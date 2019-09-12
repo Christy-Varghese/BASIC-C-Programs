@@ -36,6 +36,7 @@ int main(){
 	
 	for(int k=0;k<n;k++)
 	{
+		
 		wt[k]=tat[k]-bt[k];
 		totalWT+=wt[k];
 	}
